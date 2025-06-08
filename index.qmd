@@ -1,0 +1,9 @@
+---
+title: "Slides"
+format: html
+embed-resources: true
+engine: none
+---
+
+* [DR 2025](DR/DR-fom-2025.html)
+
