@@ -3,7 +3,7 @@ title: "DR 2025"
 format: 
   revealjs:
     theme: dark
-    multiplex: false
+    multiplex: true
     width: 800
     height: 600
     embed-resources: true
@@ -35,19 +35,17 @@ format:
 
 ---
 
-:::{ layout-ncol=2 }
-![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025-contributed/i-HqRV8PD/0/LGrsbt8kbTXP2GRWQSTqRrjMQSG2KXtQbsVbkhZRB/X4/IMG_9357-X4.jpg)
-
-:::
-
 ---
 
-:::{ layout-nrow=2}
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-Z6JQtLK/0/MZDNZdfHmXg2tZzTwNfDs9HK3WL6grDkHzhwsQGKJ/X5/CR5_3771-Pano-X5.jpg)
 
+---
 
-![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-9jpsvq5/0/LXfthG4CFNsKZKbB2tqTcMLSmbvBmxgm6NR45xBFL/X5/CR5_3593-X5.jpg){width=75%}
+![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-zp6LJJJ/0/NHGC3b3bg4r5TknFpHGmmGswVQf8vMtd38cc96HNQ/X5/CR5_3495-X5.jpg)
+
+
+<!-- ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-9jpsvq5/0/LXfthG4CFNsKZKbB2tqTcMLSmbvBmxgm6NR45xBFL/X5/CR5_3593-X5.jpg){width=75%} -->
 :::
 
 ---
@@ -59,8 +57,6 @@ format:
 :::{ layout-nrow=2 }
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025-contributed/i-FngMC4S/0/M9TRLn57pcbZzznb4chHBSb28ZrkVkw3sfGkpNpTK/X4/20250503_134423-X4.jpg)
-
-![](https://photos.pruim.co/Organizations/ShermanStreet/n-XftH5/DR-focus-on-ministry/i-N5vGkgL)
 
 :::
 
