@@ -2,7 +2,7 @@
 title: "bit.ly/ss-dr-slides"
 format: 
   revealjs:
-    theme: dark
+    theme: [simple, custom.scss]
     multiplex: true
     width: 800
     height: 600
@@ -133,6 +133,10 @@ format:
 
 ---
 
+![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-hHzsGQn/0/MjHB7Pd6bx7qb5wSqHDKs39CtgvKKmCfhX8QRNHNL/M/IMG_6990-M.jpg)
+
+---
+
 :::{layout-ncol=3}
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-WbQ889b/0/MxFGvTRkKXp8mtXrnXHSLXCtxXgLGMxLmZJ4c8ctr/X4/CR5_3683-X4.jpg){height=350}
@@ -174,13 +178,11 @@ format:
 
 ![](https://photos.smugmug.com/photos/i-dQqXg8M/0/NWzMCHSnJJ7pn83G5Cf5tVjTqjj6TMxBM7HDvNkwp/X4/i-dQqXg8M-X4.jpg)
 
+:::
+
 ---
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-F3GrtXf/0/Kk3jb2T8gdZzmPBDjhQpXsVm257XJCdLT6KZDbGGm/X5/CR5_3666-X5.jpg)
-
-## Visitors {.smaller}
-
-![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-xFkVkf6/0/Ngxp237fSFs3622fj5BbXxhGDq7DbWmnCtXBc8Xv4/M/IMG_6978-M.jpg)
 
 ## Transportation {.smaller}
 
@@ -195,6 +197,10 @@ format:
 ---
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-LMmGVqh/0/Kb4Ccszd5JtLzMKvQ9gHCjQVKsN8LqqNzjsZcHXMJ/X4/CR5_3641-X4.jpg)
+
+## Visitors {.smaller}
+
+![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-xFkVkf6/0/Ngxp237fSFs3622fj5BbXxhGDq7DbWmnCtXBc8Xv4/M/IMG_6978-M.jpg)
 
 ## Health {.smaller}
 
@@ -212,9 +218,16 @@ format:
 
 ---
 
+<center>
+These slides at 
+[bit.ly/ss-dr-slides](https://bit.ly/ss-dr-slides).
+
+More photos [here](https://photos.pruim.co/Organizations/ShermanStreet/n-XftH5/DR-focus-on-ministry).
+
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-TqjnRt4/0/NSpgcbQ9hcgX54FmJFrgLpTN6d4cBsNPWgqqkcTR6/L/CR5_3587-L.jpg)
 
+</center>
 
 
 
