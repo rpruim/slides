@@ -1,5 +1,5 @@
 ---
-title: "DR 2025"
+title: "bit.ly/ss-dr-slides"
 format: 
   revealjs:
     theme: dark
@@ -194,6 +194,7 @@ format:
 ---
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-rp7v8Wz/0/LrbfCGtR52gsp7TJ6ZPd7Mb6cFhzrHWTNDPk4nDhQ/L/CR5_3434-L.jpg)
+---
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-LMmGVqh/0/Kb4Ccszd5JtLzMKvQ9gHCjQVKsN8LqqNzjsZcHXMJ/X4/CR5_3641-X4.jpg)
 
