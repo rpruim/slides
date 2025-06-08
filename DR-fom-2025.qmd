@@ -9,17 +9,17 @@ format:
     embed-resources: true
 ---
 
-## Welcome to Crucero!
+## Welcome to Crucero! {.smaller}
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-Q8NKdRG/0/Mw9h926vhX88JpqC2hZ3NWHtN9gzrzBL9RGvLQKLk/X5/CR5_3617-X5.jpg){width=800}
 
 
-## La Mesa = The Table
+## La Mesa = The Table {.smaller}
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025-contributed/i-pFs7CmS/0/LFSwX2xcvJkRQCqDRH9MhsgnSfV8z69CfPzqdsftG/X4/20250501_133211-X4.jpg)
 
 
-## Just a little walk
+## Just a little walk {.smaller}
 
 :::{ layout-ncol=2 }
 
@@ -35,8 +35,6 @@ format:
 
 ---
 
----
-
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-Z6JQtLK/0/MZDNZdfHmXg2tZzTwNfDs9HK3WL6grDkHzhwsQGKJ/X5/CR5_3771-Pano-X5.jpg)
 
@@ -46,7 +44,6 @@ format:
 
 
 <!-- ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-9jpsvq5/0/LXfthG4CFNsKZKbB2tqTcMLSmbvBmxgm6NR45xBFL/X5/CR5_3593-X5.jpg){width=75%} -->
-:::
 
 ---
 
@@ -74,9 +71,6 @@ format:
 
 :::
 
----
-
-![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-43zwtkx/0/LH9xhRVwzxc6drzQL9WzB3N8MBqjzbBQ5vWpFrJpn/X5/CR5_3581-X5.jpg)
 
 ---
 
@@ -108,19 +102,18 @@ format:
 
 ---
 
-### BYOB
+### BYOB {.smaller}
 
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-QKPRPPk/0/MXfrD4zCwjkNh7LfxJHZ2JR8kJ3cjSK8XQ9kLnR4W/L/CR5_3276-L.jpg){height=260}
 ![](https://photos.smugmug.com/photos/i-XJc7x7n/0/MBpLs3JhfR3fZtCRgvQdNQ5mrmvdjnTbBq8ggnd5C/M/i-XJc7x7n-M.jpg){height=260}
-
-
+<br>
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-g75Kb2F/0/M9RG6kP7pb9kz44XSXCnbhH4hsxNW8K5jVPJPg2fS/L/CR5_3340-L.jpg){height=270}
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-GFF8Skw/0/LkMWjVRkbN9CdQV7KJTCw25wX3FD76s2j6RK6vf63/L/CR5_3444-L.jpg){height=270}
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-qZWjXZS/0/LdqBwbDWBMBHCfdRpLJB544MVgPr5w9pZGmB7nwhX/X4/CR5_3711-X4.jpg){height=270}
 ---
 
-## And give him some help
+## And give him some help {.smaller}
 
 :::{ layout-ncol=2 }
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025-contributed/i-PfWXfDX/0/LqZLLMgffHNmxgb5S9QMXfx7pNxD86HMvSWhM6Lhb/X4/20250502_162211-X4.jpg){height=200}
@@ -154,11 +147,11 @@ format:
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025-contributed/i-T44k6cT/0/KWcxgjzpF54mgBNn7wR6trRJnmzpMD8BdtG6pBtSX/X4/20250501_152310-X4.jpg)
 
-## People
+## People {.smaller}
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-43zwtkx/0/LH9xhRVwzxc6drzQL9WzB3N8MBqjzbBQ5vWpFrJpn/X5/CR5_3581-X5.jpg)
 
-## Kids/Youth
+## Kids/Youth {.smaller}
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-kbfZDr8/0/Mr25sG2sCXMv62xdrGHnvzCqdmBPXXTdrXWwTJVjg/X5/CR5_3507-X5.jpg)
 
@@ -168,15 +161,12 @@ format:
 
 ---
 
-![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-sSFgrHN/0/MCkBRGhpz8fk4vRffVPHbxGJQ8zBcntKVLrmSDRgp/X5/CR5_3396-X5.jpg)
-
-
-## Finances
+## Finances {.smaller}
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-n5vRwp2/0/NM8dHS3HsB8dsFnpSNhwrNFCDtnZS3H4SRDcc8nJ5/X5/CR5_3455-X5.jpg)
 
 
-## Water
+## Water {.smaller}
 
 :::{ layout-ncol=2 }
 
@@ -190,11 +180,11 @@ format:
 
 :::
 
-## Visitors
+## Visitors {.smaller}
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-xFkVkf6/0/Ngxp237fSFs3622fj5BbXxhGDq7DbWmnCtXBc8Xv4/M/IMG_6978-M.jpg)
 
-## Transportation
+## Transportation {.smaller}
 
 ![](https://photos.smugmug.com/Calvin/DR-2025/i-3xg7kbb/0/Kzgt5djGR3kwvqzSxT5sfMw58CjMSbgsk67NLRVKK/L/CR5_1717-L.jpg)
 ---
@@ -207,7 +197,7 @@ format:
 
 ![](https://photos.smugmug.com/Organizations/ShermanStreet/n-XftH5/Sherman-DR-2025/i-LMmGVqh/0/Kb4Ccszd5JtLzMKvQ9gHCjQVKsN8LqqNzjsZcHXMJ/X4/CR5_3641-X4.jpg)
 
-## Health
+## Health {.smaller}
 
 :::{ layout-ncol=2}
 
